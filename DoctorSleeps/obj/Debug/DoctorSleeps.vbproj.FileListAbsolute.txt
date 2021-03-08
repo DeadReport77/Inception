@@ -1,0 +1,13 @@
+C:\Users\Leeraoy.Jenkins\source\repos\DoctorSleeps\bin\Debug\DoctorSleeps.exe.config
+C:\Users\Leeraoy.Jenkins\source\repos\DoctorSleeps\bin\Debug\DoctorSleeps.exe
+C:\Users\Leeraoy.Jenkins\source\repos\DoctorSleeps\bin\Debug\DoctorSleeps.pdb
+C:\Users\Leeraoy.Jenkins\source\repos\DoctorSleeps\bin\Debug\DoctorSleeps.xml
+C:\Users\Leeraoy.Jenkins\source\repos\DoctorSleeps\obj\Debug\DoctorSleeps.Deactivation.resources
+C:\Users\Leeraoy.Jenkins\source\repos\DoctorSleeps\obj\Debug\DoctorSleeps.Form1.resources
+C:\Users\Leeraoy.Jenkins\source\repos\DoctorSleeps\obj\Debug\DoctorSleeps.Resources.resources
+C:\Users\Leeraoy.Jenkins\source\repos\DoctorSleeps\obj\Debug\DoctorSleeps.SleepCenter.resources
+C:\Users\Leeraoy.Jenkins\source\repos\DoctorSleeps\obj\Debug\DoctorSleeps.vbproj.GenerateResource.cache
+C:\Users\Leeraoy.Jenkins\source\repos\DoctorSleeps\obj\Debug\DoctorSleeps.vbproj.CoreCompileInputs.cache
+C:\Users\Leeraoy.Jenkins\source\repos\DoctorSleeps\obj\Debug\DoctorSleeps.exe
+C:\Users\Leeraoy.Jenkins\source\repos\DoctorSleeps\obj\Debug\DoctorSleeps.xml
+C:\Users\Leeraoy.Jenkins\source\repos\DoctorSleeps\obj\Debug\DoctorSleeps.pdb
